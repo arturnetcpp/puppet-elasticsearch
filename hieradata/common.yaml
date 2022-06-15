@@ -1,0 +1,11 @@
+---
+classes:
+ # - profile::tomcat::init
+ # - profile::k8sprod::init
+ # - profile::docker::init
+ # - profile::tomcatchangeline::init
+ # - profile::vault::init
+ # - profile::consul::init
+ # - profile::elkstackprod::init
+   - profile::elasticsearch::init
+
